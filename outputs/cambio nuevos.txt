@@ -1,11 +1,11 @@
 cambio_conocimiento_por_etnia: cambiar los porcentajes, eje Y, colocar "cantidad de participantes"
 cambio_pre_post_por_etnia: cambiar valores
 escolaridad_vs_etnia: colocar en 1: ladino, 2 maya, 4 xinca, eje Y, colocar "cantidad de participantes"
-pero 1,2,3.. son nivel de escolaridad
+pero 1,2,3.. son nivel de escolaridad. si cambiar nivel de escolaridad :) jsjsjs
 
 
 etnia_distribución: colocar la cantidad de participantes, eje Y, colocar "cantidad de participantes"
-es etnia_distribution_count?
+es etnia_distribution_count? si, es esa 
 
 distribución_participantes_por lugar:eje Y, colocar "cantidad de participantes"
 
@@ -13,9 +13,9 @@ edad_histograma_rangos: eje Y, colocar "cantidad de participantes"
 
 
 pre_vs_post_porcentaje correctas: cambiar y añadir desde la p2 hasta la p8 (coloca de 1-8, porque voy a eliminar la p1 de la encuesta)
-no tengo ninguna con ese nombre
+no tengo ninguna con ese nombre,  correcto: outputs/afirmativo_negativo_tabla_pastel_ajustado.png
 
 
 calificaciones_pre_vs_post: arreglar porcentajes, colocar en 1: ladino, en 2: maya, en 4: xinca,
 resultado final pre vs post: arreglar porcentajes
-no tengo ninguna con ese nombre
+no tengo ninguna con ese nombre, nombre correcto: pre_vs_post_porcentaje_correctas_P4_P7_P8_ajustado.png
